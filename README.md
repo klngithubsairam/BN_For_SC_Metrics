@@ -1,0 +1,8 @@
+# BN_For_SC_Metrics
+Bayesian Network for Smart Contract Metrics
+
+The data present in "SC and its Quality Metrics" file is related to smart contracts which are present in "High Txion Volume SC Dataset" zip file.
+
+The "SC and its Quality Metrics" file consists of total 24 metrics. 
+In which first 14 metrics are collected using PASO website (https://aphd.github.io/paso/)
+Remaining 10 metrics are collected manually by searching in Smart contracts.
